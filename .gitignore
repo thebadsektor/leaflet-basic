@@ -49,8 +49,8 @@ composer.phar
 
 # Docker #
 ##########
-.dockerignore
-Dockerfile
+# .dockerignore
+# Dockerfile
 
 # Ignored config files #
 ########################
